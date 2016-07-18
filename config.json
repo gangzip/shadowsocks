@@ -1,7 +1,8 @@
 {
-    "server":"127.0.0.1",
+    "server":"159.203.156.116",
     "server_port":8086,
     "local_port":1030,
-    "password":"pwd",
-    "timeout":600
+    "password":"wjzll32702",
+    "timeout":600,
+    "method":"aes-256-cfb"
 }
